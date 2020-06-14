@@ -1,0 +1,1 @@
+Matricula: 680715	341 comparacoes	tempo de execucao total para todas as buscas: 48ms	
